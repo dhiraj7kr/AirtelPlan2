@@ -1,0 +1,32 @@
+{
+  "plans": [
+    {"name": "₹22 1GB Data Pack", "price": 22, "data": "1GB", "calls": "Unlimited", "sms": "NA", "description": "1-day validity, ideal for short-term data needs."},
+    {"name": "₹33 2GB Data Pack", "price": 33, "data": "2GB", "calls": "Unlimited", "sms": "NA", "description": "1-day validity, suitable for moderate data usage."},
+    {"name": "₹49 1.5GB Data Pack", "price": 49, "data": "1.5GB", "calls": "Unlimited", "sms": "NA", "description": "1-day validity, enhanced data for a day."},
+    {"name": "₹99 1GB Data Pack", "price": 99, "data": "1GB", "calls": "Unlimited", "sms": "100", "description": "18-day validity, basic plan for light users."},
+    {"name": "₹129 1GB Data Pack", "price": 129, "data": "1GB", "calls": "Unlimited", "sms": "300", "description": "24-day validity, suitable for moderate users."},
+    {"name": "₹149 2GB Data Pack", "price": 149, "data": "2GB", "calls": "Unlimited", "sms": "300", "description": "28-day validity, offers more data."},
+    {"name": "₹155 1GB Combo Pack", "price": 155, "data": "1GB", "calls": "Unlimited", "sms": "300", "description": "24-day validity, includes Wynk Music and HelloTunes."},
+    {"name": "₹179 2GB Combo Pack", "price": 179, "data": "2GB", "calls": "Unlimited", "sms": "300", "description": "28-day validity, includes Wynk Music and HelloTunes."},
+    {"name": "₹199 3GB Combo Pack", "price": 199, "data": "3GB", "calls": "Unlimited", "sms": "300", "description": "30-day validity, includes Wynk Music and HelloTunes."},
+    {"name": "₹209 1GB/Day Pack", "price": 209, "data": "1GB/day", "calls": "Unlimited", "sms": "100/day", "description": "21-day validity, daily data allocation."},
+    {"name": "₹219 1GB/Day Pack", "price": 219, "data": "1GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, daily data allocation."},
+    {"name": "₹249 1.5GB/Day Pack", "price": 249, "data": "1.5GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, enhanced daily data."},
+    {"name": "₹279 1.5GB/Day Pack", "price": 279, "data": "1.5GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, includes daily data."},
+    {"name": "₹298 2GB/Day Pack", "price": 298, "data": "2GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, suitable for heavy users."},
+    {"name": "₹349 2GB/Day Pack", "price": 349, "data": "2GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, includes daily data."},
+    {"name": "₹379 6GB Pack", "price": 379, "data": "6GB", "calls": "Unlimited", "sms": "900", "description": "84-day validity, large data and SMS allocation."},
+    {"name": "₹398 3GB/Day Pack", "price": 398, "data": "3GB/day", "calls": "Unlimited", "sms": "100/day", "description": "28-day validity, high daily data."},
+    {"name": "₹399 1.5GB/Day Pack", "price": 399, "data": "1.5GB/day", "calls": "Unlimited", "sms": "100/day", "description": "56-day validity, daily data allocation."},
+    {"name": "₹449 2GB/Day Pack", "price": 449, "data": "2GB/day", "calls": "Unlimited", "sms": "100/day", "description": "56-day validity, enhanced daily data."},
+    {"name": "₹558 3GB/Day Pack", "price": 558, "data": "3GB/day", "calls": "Unlimited", "sms": "100/day", "description": "56-day validity, high daily data."},
+    {"name": "₹598 1.5GB/Day Pack", "price": 598, "data": "1.5GB/day", "calls": "Unlimited", "sms": "100/day", "description": "84-day validity, daily data allocation."},
+    {"name": "₹698 2GB/Day Pack", "price": 698, "data": "2GB/day", "calls": "Unlimited", "sms": "100/day", "description": "84-day validity, suitable for heavy users."},
+    {"name": "₹1498 24GB Pack", "price": 1498, "data": "24GB", "calls": "Unlimited", "sms": "3600", "description": "365-day validity, large data and SMS."},
+    {"name": "₹2398 1.5GB/Day Pack", "price": 2398, "data": "1.5GB/day", "calls": "Unlimited", "sms": "100/day", "description": "365-day validity, daily data allocation."},
+    {"name": "₹149 2GB Data Pack", "price": 149, "data": "2GB", "calls": "Unlimited", "sms": "300", "description": "28-day validity, basic plan for light users."},
+    {"name": "₹155 1GB Combo Pack", "price": 155, "data": "1GB", "calls": "Unlimited", "sms": "300", "description": "24-day validity, includes Wynk Music and HelloTunes."},
+    {"name": "₹179 2GB Combo Pack", "price": 179, "data": "2GB", "calls": "Unlimited", "sms": "300", "description": "28-day validity, includes Wynk Music and HelloTunes."},
+    {"name": "₹199 3GB Combo Pack", "price": 199
+::contentReference[oaicite:0]{index=0}
+ 
